@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ToolBar</string>
+    <string name="str_tb_title_p1">Usuarios</string>
+    <string name="str_tb_title_p2">Posters</string>
+    <string name="str_tb_title_p3">Comentarios</string>
+    <string name="str_tb_title_p4">Actualizar</string>
+    <string name="str_5">24k</string>
+    <string name="str_6">73k</string>
+    <string name="str_7">345</string>
+
+</resources>
